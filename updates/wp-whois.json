@@ -1,0 +1,10 @@
+{
+    "name": "BTC Whois Lookup",
+    "slug": "wp-whois",
+    "version": "1.6.0",
+    "homepage": "https://github.com/bluetoolcase/btc-wordpress-releases",
+    "download_url": "https://github.com/bluetoolcase/btc-wordpress-releases/releases/download/wp-whois%2Fv1.6.0/wp-whois-1.6.0.zip",
+    "sections": {
+        "description": "BTC Whois Lookup, distributed by Blue Tool Case."
+    }
+}
