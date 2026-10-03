@@ -1,0 +1,10 @@
+{
+    "name": "Blue Tool Case",
+    "slug": "btc_theme",
+    "version": "1.1.0",
+    "homepage": "https://github.com/bluetoolcase/btc-wordpress-releases",
+    "download_url": "https://github.com/bluetoolcase/btc-wordpress-releases/releases/download/btc_theme%2Fv1.1.0/btc_theme-1.1.0.zip",
+    "sections": {
+        "description": "Blue Tool Case, distributed by Blue Tool Case."
+    }
+}
